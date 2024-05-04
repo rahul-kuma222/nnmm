@@ -1,0 +1,47 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 04 May 2024 12:47:48 at https://crsorgi-gov.live/dashboard/birthedit.php?id=Mzk5 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://crsorgi-gov.live/dashboard/birthedit.php?id=Mzk5 -O1 "C:\My Web Sites\ggg" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:49:05	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/dashboard/wallet-online.php (from https://crsorgi-gov.live/dashboard/birthedit.php?id=Mzk5)
+12:50:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css (from https://crsorgi-gov.live/dashboard/profile.php)
+12:50:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js (from https://crsorgi-gov.live/dashboard/profile.php)
+12:50:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/cdn.jsdelivr.net/npm/sweetalert2%4011.4.14/dist/sweetalert2.all.min.js (from https://crsorgi-gov.live/dashboard/profile.php)
+12:50:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/unpkg.com/sweetalert%402.1.2/dist/sweetalert.min.js (from https://crsorgi-gov.live/dashboard/profile.php)
+12:50:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.0/jquery.fancybox.min.css (from https://crsorgi-gov.live/dashboard/profile.php)
+12:50:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js (from https://crsorgi-gov.live/dashboard/profile.php)
+12:50:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.0/jquery.fancybox.min.js (from https://crsorgi-gov.live/dashboard/profile.php)
+12:50:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css (from https://crsorgi-gov.live/dashboard/profile.php)
+12:50:03	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/resources/demos/style.css (from https://crsorgi-gov.live/dashboard/profile.php)
+12:50:58	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/8.11.8/sweetalert2.all.min.js (from https://crsorgi-gov.live/dashboard/profile.php)
+12:50:58	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/code.jquery.com/ui/1.13.0/jquery-ui.js (from https://crsorgi-gov.live/dashboard/profile.php)
+12:50:58	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js (from https://crsorgi-gov.live/dashboard/profile.php)
+12:50:58	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/cdnjs.cloudflare.com/ajax/libs/jquery-toast-plugin/1.3.2/jquery.toast.min.js (from https://crsorgi-gov.live/dashboard/profile.php)
+12:50:58	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/dashboard/notice.php (from https://crsorgi-gov.live/dashboard/index.php)
+12:50:58	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/images.png (from https://crsorgi-gov.live/dashboard/uploads/whats.php)
+12:50:58	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/dashboard/uploads/${option.brandSetting.brandImg} (from https://crsorgi-gov.live/dashboard/uploads/whats.php)
+12:50:58	Error: 	"Forbidden" (403) at link https://uidai.gov.in/fonts-local_roboto.css (from https://crsorgi-gov.live/dashboard/birthlist.php)
+12:50:59	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/img/prev.gif (from https://crsorgi-gov.live/dashboard/adduser.php)
+12:51:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/dashboard/chrome-extension://hhojmcideegachlhfgfdhailpfhgknjm/web_accessible_resources/index.js (from https://crsorgi-gov.live/dashboard/userlist.php)
+12:51:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/assets/libs/jquery/dist/jquery.min.js (from https://crsorgi-gov.live/dashboard/userlist.php)
+12:51:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/assets/libs/popper.js/dist/umd/popper.min.js (from https://crsorgi-gov.live/dashboard/userlist.php)
+12:51:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/assets/libs/bootstrap/dist/js/bootstrap.min.js (from https://crsorgi-gov.live/dashboard/userlist.php)
+12:51:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/dist/js/app-style-switcher.js (from https://crsorgi-gov.live/dashboard/userlist.php)
+12:51:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/dist/js/feather.min.js (from https://crsorgi-gov.live/dashboard/userlist.php)
+12:51:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/assets/libs/perfect-scrollbar/dist/perfect-scrollbar.jquery.min.js (from https://crsorgi-gov.live/dashboard/userlist.php)
+12:51:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/dist/js/sidebarmenu.js (from https://crsorgi-gov.live/dashboard/userlist.php)
+12:51:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/dist/js/custom.min.js (from https://crsorgi-gov.live/dashboard/userlist.php)
+12:51:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/assets/extra-libs/c3/d3.min.js (from https://crsorgi-gov.live/dashboard/userlist.php)
+12:51:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/assets/extra-libs/c3/c3.min.js (from https://crsorgi-gov.live/dashboard/userlist.php)
+12:51:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/assets/libs/chartist/dist/chartist.min.js (from https://crsorgi-gov.live/dashboard/userlist.php)
+12:51:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/assets/libs/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.min.js (from https://crsorgi-gov.live/dashboard/userlist.php)
+12:51:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/assets/extra-libs/jvector/jquery-jvectormap-2.0.2.min.js (from https://crsorgi-gov.live/dashboard/userlist.php)
+12:51:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/assets/extra-libs/jvector/jquery-jvectormap-world-mill-en.js (from https://crsorgi-gov.live/dashboard/userlist.php)
+12:51:00	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/dist/js/pages/dashboards/dashboard1.min.js (from https://crsorgi-gov.live/dashboard/userlist.php)
+12:51:01	Error: 	"Not Found" (404) at link https://crsorgi-gov.live/dashboard/index_jh.php (from https://crsorgi-gov.live/dashboard/birth_hospital.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 23 seconds : 219 links scanned, 182 files written (12695615 bytes overall) [4355476 bytes received at 21455 bytes/sec], 11576406 bytes transferred using HTTP compression in 166 files, ratio 25%, 5.8 requests per connection
+(36 errors, 0 warnings, 0 messages)
